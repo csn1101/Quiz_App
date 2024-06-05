@@ -8,3 +8,7 @@ pandas
 numpy
 python-dotenv
 ipykernel
+pandasai
+PyPDF2
+tabula
+tabula-py

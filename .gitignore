@@ -1,1 +1,4 @@
 .env
+cache/cache_db_0.10.db.wal
+cache/cache_db_0.10.db
+pandasai.log
